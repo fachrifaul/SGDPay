@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pln_token_values">
+        <item>20.000 (Rp.20.500)</item>
+        <item>50.000 (Rp.50.500)</item>
+        <item>100.000 (Rp.100.500)</item>
+        <item>200.000 (Rp.200.500)</item>
+        <item>50.000 (Rp.500.500)</item>
+        <item>1.000.000 (Rp.1.000.500)</item>
+    </string-array>
+
+    <string-array name="pulsa_values">
+        <item>10.000 (Rp.20.500)</item>
+        <item>20.000 (Rp.20.500)</item>
+        <item>50.000 (Rp.50.500)</item>
+        <item>100.000 (Rp.100.500)</item>
+        <item>200.000 (Rp.200.500)</item>
+        <item>50.000 (Rp.500.500)</item>
+    </string-array>
+
+    <string-array name="data_values">
+        <item>1GB (Rp.20.500)</item>
+        <item>2GB (Rp.50.500)</item>
+        <item>5GB (Rp.100.500)</item>
+        <item>10GB (Rp.200.500)</item>
+        <item>20GB (Rp.500.500)</item>
+    </string-array>
+
+    <string-array name="bpjs_values">
+        <item>1 bulan kedepan</item>
+        <item>2 bulan kedepan</item>
+        <item>3 bulan kedepan</item>
+        <item>4 bulan kedepan</item>
+        <item>5 bulan kedepan</item>
+        <item>6 bulan kedepan</item>
+        <item>7 bulan kedepan</item>
+        <item>8 bulan kedepan</item>
+        <item>9 bulan kedepan</item>
+        <item>10 bulan kedepan</item>
+        <item>11 bulan kedepan</item>
+        <item>12 bulan kedepan</item>
+    </string-array>
+
+    <string-array name="tv_internet_values">
+        <item>TV TOPAS</item>
+        <item>TV NEX</item>
+        <item>TV BIG</item>
+        <item>INDOVISION</item>
+    </string-array>
+
+    <array name="custom_colors">
+        <item>#F44336</item>
+        <item>#E91E63</item>
+        <item>#9C27B0</item>
+        <item>#673AB7</item>
+        <item>#3F51B5</item>
+        <item>#2196F3</item>
+    </array>
+
+</resources>
